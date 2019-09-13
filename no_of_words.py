@@ -41,7 +41,11 @@ print("Lenght of words is " + str(len(array_text_new)))
 
 #Surbhi's Code for reading files
 
+
 def local_repository_function(x):
+    pass
+
+def pulling_from_repository(x):
     pass
 
 def getFiles(path):
