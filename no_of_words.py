@@ -40,6 +40,9 @@ print("Lenght of words is " + str(len(array_text_new)))
 
 
 #Surbhi's Code for reading files
+def pulling_from_repository(x):
+    pass
+
 def getFiles(path):
     """
     - returns  a dictionary of all files 
